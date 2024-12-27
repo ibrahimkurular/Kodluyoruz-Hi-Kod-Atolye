@@ -1,1 +1,1 @@
-# Hi-Kod
+# Kodluyoruz Hi-Kod Atölye Frontend Eğitimi
