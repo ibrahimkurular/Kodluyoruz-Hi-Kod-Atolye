@@ -1,0 +1,38 @@
+body {
+  background-color: beige;
+}
+
+table {
+  border-radius: 20px;
+  border: dashed 3px blue;
+  padding: 10px;
+  text-align: center;
+  margin-left: 1.8rem;
+  margin-top: 1.3rem;
+}
+th {
+  background-color: aqua;
+  color: green;
+  border-style: hidden;
+  padding: 5px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+  border-radius: 7px;
+}
+td {
+  border-style: hidden;
+  border-radius: 5px;
+  background-color: chartreuse;
+  padding: 0.7rem;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.sonuc {
+  background-color: cornflowerblue;
+}
+.bilgi {
+  background-color: blue;
+  color: whitesmoke;
+}
