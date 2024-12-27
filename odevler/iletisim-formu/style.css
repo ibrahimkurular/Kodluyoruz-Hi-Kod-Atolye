@@ -1,0 +1,58 @@
+body {
+  background-color: gainsboro;
+}
+article {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  box-shadow: 1px 3px 2px 4px grey;
+  padding: 10px;
+  margin-left: 15rem;
+  margin-top: 3rem;
+  width: 60%;
+  background-color: white;
+}
+
+.get-item img {
+  width: 90%;
+  height: 90%;
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline black 2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.get-item form {
+  width: 50%;
+  height: 50%;
+  margin-left: 4rem;
+}
+input {
+  height: 30px;
+}
+input,
+textarea {
+  margin: 0.3rem;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  border: none;
+  width: 250px;
+  padding-left: 0.7rem;
+  background-color: gainsboro;
+}
+button {
+  width: 80%;
+  color: white;
+  font-size: 1.2rem;
+  border-radius: 1rem;
+  margin: 0.3rem;
+  padding: 10px;
+  border: none;
+  background-color: blue;
+}
+button:hover {
+  background-color: cadetblue;
+  cursor: pointer;
+}
